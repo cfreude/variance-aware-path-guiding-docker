@@ -1,0 +1,8 @@
+services:
+    apps:
+        build: .
+        container_name: vapg-mitsuba
+        #command:
+        #ports:
+        volumes:
+            - ..:/code

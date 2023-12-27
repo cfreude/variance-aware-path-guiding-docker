@@ -52,3 +52,5 @@
 
 *.vcxproj.user
 /.vscode
+
+/mitsuba/config.py
